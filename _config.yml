@@ -1,3 +1,9 @@
 # add the following to _config.yml file
 title: JUN HYEOK (RAY) KWON
 theme: jekyll-theme-minimal
+
+# Add personal info below
+description: >
+  Data Science / Machine Learning Enthusiast 
+email: your_email@example.com
+contact: your_phone_or_linkedin_or_website
