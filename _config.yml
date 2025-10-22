@@ -1,8 +1,7 @@
 # add the following to _config.yml file
 title: JUN HYEOK (RAY) KWON
 theme: jekyll-theme-minimal
-email: yourname@example.com
-description: >
-  Data Science / Machine Learning Enthusiast  
-  📞 123-456-7890 | ✉️ yourname@example.com
-
+description: |
+  Data Science / Machine Learning Enthusiast
+  📞 123-456-7890
+  ✉️ yourname@example.com
