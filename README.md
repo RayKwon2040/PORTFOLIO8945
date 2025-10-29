@@ -1,4 +1,4 @@
-# 🗺 Ray's Portfolio
+# 🔮 Ray's Portfolio
 
 👋🏽 Hello, my name is Jun Hyeok (Ray) Kwon.
 
