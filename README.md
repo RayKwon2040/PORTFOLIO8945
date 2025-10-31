@@ -6,9 +6,6 @@
 
 🌇 Korean Native, with a passion for developing machine learning models and hands-on strategies that will grow business.
 
-## 📚 Table of Contents
-- [Prediction of house prices in King County]
-
 
 # Stat/Machine learning
 
