@@ -11,5 +11,5 @@
 
 | Project Link | Completion Date | Tools | Project Description | 
 |---|---|---|---|
-| 🏡 [Prediction of Loan Default](https://github.com/RayKwon2040/Loan_default_rate_project/blob/main/Project_Loan_Default_rate.md) | May 2025 | Python | Developed the best model to predict loan default |
+| 📈 [Prediction of Loan Default](https://github.com/RayKwon2040/Loan_default_rate_project/blob/main/Project_Loan_Default_rate.md) | May 2025 | Python | Developed the best model to predict loan default |
 
