@@ -11,5 +11,5 @@
 
 | Project Link | Completion Date | Tools | Project Description | 
 |---|---|---|---|
-| 🏡 [Prediction of house prices in King County](https://github.com/RayKwon2040/house-price-prediction/blob/main/House_Price%20Prediction.md) | May 2025 | Python | Developed the best model to predict selling price for real estate development projects in King County |
+| 🏡 [Prediction of Loan Default](https://github.com/RayKwon2040/Loan_default_rate_project/blob/main/Project_Loan_Default_rate.md) | May 2025 | Python | Developed the best model to predict loan default |
 
