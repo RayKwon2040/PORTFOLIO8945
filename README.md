@@ -11,5 +11,5 @@
 
 | Project Link | Completion Date | Tools | Project Description | 
 |---|---|---|---|
-| 📈 [Prediction of Loan Default](https://github.com/RayKwon2040/Loan_default_rate_project/blob/main/Project_Loan_Default_rate.md) | May 2025 | Python | Developed the best model to predict loan default |
-
+| 📈 [Prediction of Loan Default](https://github.com/RayKwon2040/Loan_default_rate_project/blob/main/Project_Loan_Default_rate.md) | May 2025 | Python | Built and optimized a machine learning model to predict loan defaults from customer data, achieving top performance. |
+| 👖 [E-Commerce CLV Prediction](https://github.com/RayKwon2040/E-Commerce-CLV-Prediction/blob/main/E-COMMERCE%20CLV%20PREDICTION.md) | Feb 2025 | Python | Developed a high-performing machine learning model to predict customer lifetime value using purchase data.
